@@ -11,7 +11,7 @@
             How it works
         </h1>
         <h1>
-            contact us directly
+            Contact us directly
         </h1>
         <button class="px-6 py-2 bg-yellow-400 text-black rounded-3xl">
             sign up
