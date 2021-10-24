@@ -87,8 +87,8 @@
 </div>
 {{--problem--}}
 <div class="flex flex-wrap items-center lg:mx-32 mx-6 mt-20 mt-32">
-    <div class="flex justify-center lg:justify-start lg:mr-32 mr-0">
-        <img class="lg:w-2/12 w-6/12" src="/assets/solution.png" alt="">
+    <div class="flex justify-center lg:justify-start">
+        <img class="lg:w-8/12 w-6/12" src="/assets/solution.png" alt="">
     </div>
     <div class="lg:w-8/12 w-full lg:mt-0 mt-10">
         <h1 class="text-orange-900 mb-4 text-sm font-semibold">
