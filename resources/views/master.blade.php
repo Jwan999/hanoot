@@ -82,7 +82,7 @@
 
     </div>
     <div class=" lg:mt-0 mt-10">
-        <img src="/assets/woodhand1.png" alt="">
+        <img src="/assets/woodHand1.png" alt="">
     </div>
 </div>
 {{--problem--}}
