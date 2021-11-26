@@ -86,15 +86,15 @@
     </div>
 </div>
 {{--problem--}}
-<div class="flex flex-wrap items-center lg:mx-32 mx-6 mt-20 mt-32">
-    <div class="flex justify-center lg:justify-start">
+<div id="solution" class="flex flex-wrap items-center lg:mx-32 mx-6 mt-20 mt-32">
+    <div class="flex lg:w-4/12 w-full justify-center lg:justify-start">
         <img class="lg:w-8/12 w-6/12" src="/assets/solution.png" alt="">
     </div>
     <div class="lg:w-8/12 w-full lg:mt-0 mt-10">
         <h1 class="text-orange-900 mb-4 text-sm font-semibold">
             OUR SOLUTION
         </h1>
-        <h1 class="text-4xl font-semibold">What we want to help you with</h1>
+        <h1 class="text-4xl font-semibold">What We Want to Help You With</h1>
         <p class="mt-6 text-xl text-gray-700 text-justify">
             We know the struggle you go through when it comes to giving money to your children, when they keep asking
             for more or if they lose the money, you can make It easier on them to purchase during school hours the
@@ -103,11 +103,11 @@
     </div>
 </div>
 {{--benefits--}}
-<div class="lg:mx-32 mx-6 mt-20 mt-32">
+<div id="features" class="lg:mx-32 mx-6 mt-20 mt-32">
     <h1 class="text-orange-900 text-center mb-4 text-sm font-semibold">
         OUR FEATURES
     </h1>
-    <h1 class="text-center text-4xl font-semibold">Hello Hello</h1>
+    <h1 class="text-center text-4xl font-semibold">What We Offer</h1>
     <div class="grid lg:grid-cols-3 grid-cols-1 gap-20">
         <div class="bg-white ring-4 ring-blue-100 rounded-3xl p-6 mt-10">
             <div class="flex justify-center">
@@ -148,8 +148,8 @@
             <h1 class="text-white mb-4 text-sm font-semibold">
                 OUR SOLUTION
             </h1>
-            <h1 class="text-4xl font-semibold">
-                Creating an account
+            <h1 class="text-4xl font-semibold ">
+                Creating an Account
             </h1>
             <p class="mt-10 text-3xl">
                 Your family account will be created by the school and given to you.
@@ -170,7 +170,7 @@
                 OUR SOLUTION
             </h1>
             <h1 class="text-4xl font-semibold">
-                Checking up on your children
+                Checking Up on Your Children
             </h1>
             <p class="mt-10 text-3xl">
                 Check how much your child needs per week, what they purchase and when.
@@ -183,7 +183,7 @@
     </div>
 </div>
 {{--contact--}}
-<div class="mt-32 lg:mx-40 mx-10">
+<div id="contactus" class="mt-32 lg:mx-40 mx-10">
     <div class="bg-white rounded-3xl p-10">
         <div class="flex flex-wrap justify-between items-center">
             <div class="lg:w-5/12 w-full">
@@ -194,7 +194,7 @@
                     CONTACT US
                 </h1>
                 <h1 class="text-4xl font-semibold">
-                    Reach Out to us
+                    Reach Out to Us
                 </h1>
                 <p class="mt-6 text-lg">
                     Please reach out to us if you want any more information about our service or any other feature you
